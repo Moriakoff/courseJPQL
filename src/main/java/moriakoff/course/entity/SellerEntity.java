@@ -1,9 +1,8 @@
-package moriakoff.curse.entity;
+package moriakoff.course.entity;
 
 import lombok.*;
 
 import javax.persistence.*;
-import javax.validation.constraints.Email;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -16,7 +15,6 @@ import java.util.List;
 public class SellerEntity {
 
     @Id
-    @Email
     String email;
 
     @Column(name = "name")

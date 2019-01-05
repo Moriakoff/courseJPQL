@@ -1,4 +1,4 @@
-package moriakoff.curse.dto;
+package moriakoff.course.dto;
 
 
 import lombok.*;

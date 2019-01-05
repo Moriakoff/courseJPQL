@@ -1,12 +1,12 @@
-package moriakoff.curse.service;
+package moriakoff.course.service;
 
-import moriakoff.curse.dto.CourseCreateDTO;
-import moriakoff.curse.dto.CourseRequest;
-import moriakoff.curse.dto.SellerRequest;
-import moriakoff.curse.entity.CourseEntity;
-import moriakoff.curse.exception.CourseDoesntExistExcepion;
-import moriakoff.curse.exception.DataIsNotCorrectException;
-import moriakoff.curse.exception.SellerDoesntExistException;
+import moriakoff.course.dto.CourseCreateDTO;
+import moriakoff.course.dto.CourseRequest;
+import moriakoff.course.dto.SellerRequest;
+import moriakoff.course.entity.CourseEntity;
+import moriakoff.course.exception.CourseDoesntExistExcepion;
+import moriakoff.course.exception.DataIsNotCorrectException;
+import moriakoff.course.exception.SellerDoesntExistException;
 
 public interface CrudService {
 

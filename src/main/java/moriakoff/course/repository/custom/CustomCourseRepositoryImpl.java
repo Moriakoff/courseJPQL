@@ -1,8 +1,7 @@
-package moriakoff.curse.repository.custom;
+package moriakoff.course.repository.custom;
 
-import moriakoff.curse.entity.CourseEntity;
+import moriakoff.course.entity.CourseEntity;
 import org.springframework.stereotype.Repository;
-import org.springframework.web.bind.annotation.RequestParam;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;

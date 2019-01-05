@@ -1,8 +1,8 @@
-package moriakoff.curse.contoller;
+package moriakoff.course.contoller;
 
-import moriakoff.curse.entity.CourseEntity;
-import moriakoff.curse.repository.CourseRepository;
-import moriakoff.curse.repository.SellerRepository;
+import moriakoff.course.entity.CourseEntity;
+import moriakoff.course.repository.CourseRepository;
+import moriakoff.course.repository.SellerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.web.bind.annotation.GetMapping;

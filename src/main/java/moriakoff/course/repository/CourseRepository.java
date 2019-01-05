@@ -1,7 +1,7 @@
-package moriakoff.curse.repository;
+package moriakoff.course.repository;
 
-import moriakoff.curse.entity.CourseEntity;
-import moriakoff.curse.repository.custom.CustomCourseRepository;
+import moriakoff.course.entity.CourseEntity;
+import moriakoff.course.repository.custom.CustomCourseRepository;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

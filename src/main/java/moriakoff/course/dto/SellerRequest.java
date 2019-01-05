@@ -1,8 +1,8 @@
-package moriakoff.curse.dto;
+package moriakoff.course.dto;
 
 
 import lombok.*;
-import moriakoff.curse.entity.CourseEntity;
+import moriakoff.course.entity.CourseEntity;
 
 import javax.validation.constraints.Email;
 import java.util.List;

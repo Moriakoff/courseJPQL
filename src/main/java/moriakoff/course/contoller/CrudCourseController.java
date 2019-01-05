@@ -1,13 +1,13 @@
-package moriakoff.curse.contoller;
+package moriakoff.course.contoller;
 
-import moriakoff.curse.dto.CourseCreateDTO;
-import moriakoff.curse.dto.CourseRequest;
-import moriakoff.curse.dto.SellerRequest;
-import moriakoff.curse.entity.CourseEntity;
-import moriakoff.curse.exception.CourseDoesntExistExcepion;
-import moriakoff.curse.exception.DataIsNotCorrectException;
-import moriakoff.curse.exception.SellerDoesntExistException;
-import moriakoff.curse.service.CrudService;
+import moriakoff.course.dto.CourseCreateDTO;
+import moriakoff.course.dto.CourseRequest;
+import moriakoff.course.dto.SellerRequest;
+import moriakoff.course.entity.CourseEntity;
+import moriakoff.course.exception.CourseDoesntExistExcepion;
+import moriakoff.course.exception.DataIsNotCorrectException;
+import moriakoff.course.exception.SellerDoesntExistException;
+import moriakoff.course.service.CrudService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

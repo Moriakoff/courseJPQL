@@ -1,4 +1,4 @@
-package moriakoff.curse.entity;
+package moriakoff.course.entity;
 
 
 import lombok.*;

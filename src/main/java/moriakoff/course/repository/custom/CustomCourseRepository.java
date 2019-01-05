@@ -1,6 +1,6 @@
-package moriakoff.curse.repository.custom;
+package moriakoff.course.repository.custom;
 
-import moriakoff.curse.entity.CourseEntity;
+import moriakoff.course.entity.CourseEntity;
 
 import java.util.List;
 
